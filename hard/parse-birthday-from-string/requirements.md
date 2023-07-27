@@ -1,0 +1,15 @@
+# Parse Birthday From String
+
+```As a backend developer, you're working with strings containing user data including birthdays. 
+Your goal is to parse the birthday from a remark string. The string contains year, month and day somewhere. 
+You've already made a first attempt but it's not working yet. The script has a function **parseBirthday()** that is supposed to take a remark string as input and return a formatted birthday (YYYY-MM-DD). The function contains a regex (var regex) to parse the pattern. 
+
+It is your task to correct the code.
+The regex is case insensitive and searches for a pattern to parse the year, month and day.
+year: any four digit number after the word 'year'
+month: any two or one digit number after the word 'month'
+day: any two or one digit number after the word 'day'
+
+For example:
+Input string: HGI_YEAR2019testmonth12DATE12ABU1234DAY23
+Output: 2019-12-23```

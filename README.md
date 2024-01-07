@@ -7,3 +7,4 @@ Let's enjoy and improve every time we're free.
 
 ## References
 - https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/
+- Customize Leetcode study plans according to your needs: https://www.techinterviewhandbook.org/grind75
